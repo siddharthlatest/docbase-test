@@ -14,7 +14,7 @@ var docbaseConfig = {
   "github": {
     "user": "siddharthlatest",
     "repo": "docbase-test",
-    "path": "",
+    "path": "docs",
     "branch": "master",
     "access_token": "YjFiZWY3NWYwYzQ4MmEwMjU4NmFiNGRkMGU4NjY3NDA5YWM3ZDdjZQ=="
   },
