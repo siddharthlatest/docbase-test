@@ -1,0 +1,13 @@
+.landing, .button, .navbar-fixed-top {
+  background-color: brown; }
+
+.index-container li a, .menu a, .menu a:visited, .navbar-default .navbar-nav > li > a:active, .navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover, a, ul.nav li.dropdown:hover > a {
+  color: brown; }
+
+a:active, a:hover, .menu a:hover {
+  color: #7c2020; }
+
+.tt-menu:before {
+  border-bottom-color: brown; }
+
+/*# sourceMappingURL=theme.css.map */
