@@ -1,13 +1,13 @@
 .landing, .button, .navbar-fixed-top {
-  background-color: brown; }
+  background-color: orange; }
 
 .index-container li a, .menu a, .menu a:visited, .navbar-default .navbar-nav > li > a:active, .navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover, a, ul.nav li.dropdown:hover > a {
-  color: brown; }
+  color: orange; }
 
 a:active, a:hover, .menu a:hover {
-  color: #7c2020; }
+  color: #cc8400; }
 
 .tt-menu:before {
-  border-bottom-color: brown; }
+  border-bottom-color: orange; }
 
 /*# sourceMappingURL=theme.css.map */
