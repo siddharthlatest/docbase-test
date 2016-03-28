@@ -1,21 +1,21 @@
 var docbaseConfig = {
-  "method": "github",
+  "method": "file",
   "map": {
     "file": "map.json",
     "path": ""
   },
   "generic": {
     "baseurl": "",
-    "path": ""
+    "path": "docs"
   },
   "file": {
-    "path": ""
+    "path": "docs"
   },
   "github": {
-    "user": "siddharthlatest",
-    "repo": "docbase-test",
-    "path": "docs",
-    "branch": "master",
+    "user": "",
+    "repo": "",
+    "path": "",
+    "branch": "",
     "access_token": "YjFiZWY3NWYwYzQ4MmEwMjU4NmFiNGRkMGU4NjY3NDA5YWM3ZDdjZQ=="
   },
   "indexHtml": "./html/main.html",
